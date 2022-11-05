@@ -4,53 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4a9d5b1-dc72-43ae-b365-5384f3d48e71" name="Changes" comment="Bài tập buổi 1-JAVA Core">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bài tập buổi 3/Exersise_5/ex3_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exersise_1/Ex5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exersise_1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exersise_10/Ex4_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exersise_2/Ex5_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exersise_2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exersise_3/Ex5_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exersise_3/Rectange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bài1/b1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bài10/b10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bài2/b2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bài3/b3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bài4/b4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bài5/b5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bài6/b6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bài7/b7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bài8/b8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bài9/b9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exersie_4/ex4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exersise5/ex5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exersise6/ex6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exersise_1/ex1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exersise_1/ex3_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exersise_11/ex3_11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exersise_12/ex3_12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exersise_13/ex3_13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exersise_14/ex3_14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exersise_15/ex3_15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exersise_2/ex2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exersise_2/ex3_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exersise_3/ex3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exersise_3/ex3_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exersise_4/ex3_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exersise_5/ex3_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exersise_6/ex3_6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exersise_7/ex3_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exersise_8/ex3_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exersise_9/ex3_9.java" beforeDir="false" />
-    </list>
+    <list default="true" id="a4a9d5b1-dc72-43ae-b365-5384f3d48e71" name="Changes" comment="Bài tập buổi 5-JAVA Core" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -190,7 +144,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667190964703</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Bài tập buổi 4-JAVA Core">
+      <created>1667643643507</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667643643507</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Bài tập buổi 5-JAVA Core">
+      <created>1667643710936</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667643710936</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,7 +174,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Bài tập buổi 1-JAVA Core" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bài tập buổi 1-JAVA Core" />
+    <MESSAGE value="Bài tập buổi 4-JAVA Core" />
+    <MESSAGE value="Bài tập buổi 5-JAVA Core" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bài tập buổi 5-JAVA Core" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
