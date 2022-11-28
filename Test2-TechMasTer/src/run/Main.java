@@ -1,7 +1,7 @@
 package run;
 
 import LogicHandle.MemberAction;
-import LogicHandle.SignUpAction;
+import LogicHandle.SignInAction;
 import entity.Member;
 import view.Menu;
 
@@ -29,7 +29,7 @@ public class Main {
                     while (true);
                     switch (functionChoice) {
                         case 1:
-                            SignUpAction.signUp();
+                            SignInAction.signUp();
                             break;
                         case 2:
                             MemberAction action1 = new MemberAction();
