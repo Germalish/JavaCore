@@ -146,7 +146,6 @@ public class SignUpAction {
         boolean isCorrectEmail = false;
         for (Member member : Main.members) {
             if (member.getEmail().equals(email)) {
-                // kiểm tra nếu trùng
                 isCorrectEmail = true;
 
                 String newPassword;
@@ -164,9 +163,6 @@ public class SignUpAction {
                 member.setPassWord(newPassword);
                 System.out.println("Đổi mật khẩu thành công");
                 break;
-                /*if (isCorrectEmail){
-
-                }break;*/
             }
         }if (!isCorrectEmail){
             System.out.println("Tài khoản không tồn tại.");
